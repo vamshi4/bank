@@ -1,1 +1,4 @@
 welcome to the git
+second commit
+Thired commit
+
