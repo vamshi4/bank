@@ -1,3 +1,4 @@
-<<<<<<< HEAD
+
 new line from branch new1
 
+adding new line to push changes to remote
